@@ -29,6 +29,4 @@ login-to-checkout flow on a demo e-commerce site. It was my first time
 building something like this — Claude helped me understand the Playwright
 API and fix selector issues until the test passed reliably."
 
-That's honest, specific, and shows exactly the kind of AI-assisted
-automation work the role is about — without overstating it as more than
-it is.
+Projekt vznikl jako ukázka automatizovaného testování v Playwrightu a byl vytvořen s pomocí AI (Claude).
